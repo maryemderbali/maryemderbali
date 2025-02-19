@@ -2,3 +2,4 @@
 maryem derbali
 j'ai commencé mon stage chez proxym le 3/02/2025
 
+j'ai une formation sur les commandes Git
