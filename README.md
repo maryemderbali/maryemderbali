@@ -1,7 +1,7 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">👋 Hi, I'm Maryem Derbali!</h1>
 <h3 align="center">👩🏻‍💻 Web Developer | Software Engineer | Passionate about building scalable and efficient solutions </h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/java-programming-gif-4081143234914914503">
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/web-developer-4863587_4047919">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=maryemderbali&label=Profile%20views&color=0e75b6&style=flat" alt="maryemderbali" />
 </p>
