@@ -1,6 +1,7 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
-# 👋 Hi, I'm Maryem Derbali!
-👩🏻‍💻 Web Developer | Software Engineer | Passionate about building scalable and efficient solutions <br/> <br/>
+<h1 align="center">👋 Hi, I'm Maryem Derbali!</h1>
+<h3 align="center">👩🏻‍💻 Web Developer | Software Engineer | Passionate about building scalable and efficient solutions </h3><br/> <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassynmss&label=Profile%20views&color=0e75b6&style=flat" alt="yassynmss" /> </p>
 🌱 I’m currently learning **Devops and AI**
 
 💬 Ask me about **Angular , SpringBoot , ASP.NET , REACT** <br/> <br/>
