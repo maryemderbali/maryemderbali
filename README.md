@@ -2,10 +2,20 @@
 👩🏻‍💻 Web Developer | Software Engineer | Passionate about building scalable and efficient solutions <br/> <br/>
 🌱 I’m currently learning **Devops and AI**
 
-💬 Ask me about **Angular , SpringBoot , ASP.NET , REACT**
+💬 Ask me about **Angular , SpringBoot , ASP.NET , REACT** <br/> <br/>
 
-📫 How to reach me **derbalimaryem@gmail.com**<br/>
 ![](https://github-readme-stats.vercel.app/api?username=maryemderbali&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/maryem-derbali" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <!-- Email -->
+  <a href="mailto:derbalimaryem@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
+  </a>
+</p>
 
 # 💻 Tech Stack
 <p align="left">
